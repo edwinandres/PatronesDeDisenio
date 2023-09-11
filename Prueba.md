@@ -37,5 +37,5 @@ Se puede hacer vía herencia o con implementación de interfaz
     
     Estrategia n: Implementación de un algoritmo en particular
     
-[Estrategia](https://www.notion.so/edwin-roman/Patr-n-Estrategia-737d4cf3b25546cdb645530682c3f5c3?pvs=4#6163fc61717d4abfb5d0db89ca66594f)
+![Estrategia](https://www.notion.so/edwin-roman/Patr-n-Estrategia-737d4cf3b25546cdb645530682c3f5c3?pvs=4#6163fc61717d4abfb5d0db89ca66594f)
 
