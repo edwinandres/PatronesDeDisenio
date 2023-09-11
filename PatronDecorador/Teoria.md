@@ -27,9 +27,10 @@ Se recomienda usar clases abstractas, el autor prefiere interfaces
     Decorador: La clase que implementa a IComponent y adiciona estado o comportamiento
     
 
-![Untitled]()
 
 ![Decorador1](https://github.com/edwinandres/PatronesDisenio/blob/master/PatronDecorador/decorador1.png)
+
+![Decorador2](https://github.com/edwinandres/PatronesDisenio/blob/master/PatronDecorador/decorador2.png)
 
 - Cuando usarlo?
     
