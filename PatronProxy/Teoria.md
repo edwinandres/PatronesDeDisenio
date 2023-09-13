@@ -19,7 +19,7 @@ ADO .NET hace un proxy para conectar a base de datos
     Petición : Una operación en el sujeto que es enviada vía proxy
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebed6a9d-7949-4002-81fd-e511808fdedb/f4cacb58-e960-464b-9e35-375c9f140ca4/Untitled.png)
+![Proxy](https://github.com/edwinandres/PatronesDisenio/blob/master/PatronProxy/proxy.png)
 
 - TIPOS DE PROXY
     
