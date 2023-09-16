@@ -20,4 +20,10 @@ miProxy2.Peticion(1);
 Console.WriteLine("-----");
 miProxy2.Peticion(2);
 
+IConductor conductor = new ProxyConductor.Bmw();
+
+Console.WriteLine("llave del carro");
+int llave = Convert.ToInt32(Console.ReadLine());
+conductor.Conducir(llave);
+
 
