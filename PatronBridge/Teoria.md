@@ -25,4 +25,4 @@ El cliente indica con que versión va a trabajar
     OperaciónImp: Método que implementa la operación
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebed6a9d-7949-4002-81fd-e511808fdedb/6719d661-55a5-46fe-a519-815e08c9b08b/Untitled.png)
+![Bridge](https://github.com/edwinandres/PatronesDisenio/blob/master/PatronBridge/bridge.png)
